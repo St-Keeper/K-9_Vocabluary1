@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="training_menu">
+        <item>Аппорт</item>
+        <item>Голос</item>
+        <item>Гуляй</item>
+        <item>Дай</item>
+        <item>Лежать</item>
+        <item>Рядом</item>
+        <item>Сидеть</item>
+        <item>Стоять</item>
+        <item>Чужой</item>
+        <item>Фас</item>
+    </string-array>
+
+    <string-array name="breeds_menu">
+        <item>Австралийская овчарка</item>
+        <item>Американский стаффордширский терьер</item>
+        <item>Бельгийская овчарка</item>
+        <item>Боксер</item>
+        <item>Бордер-колли</item>
+        <item>Бульдог</item>
+        <item>Восточноевропейская овчарка</item>
+        <item>Доберман</item>
+        <item>Золотистый ретривер</item>
+        <item>Немецкая овчарка</item>
+        <item>Терьер</item>
+    </string-array>
+
+    <string-array name="wash_menu">
+        <item>Выгулка</item>
+        <item>Вычесывание</item>
+        <item>Когти</item>
+        <item>Кормление</item>
+        <item>Купание</item>
+        <item>Отравление</item>
+        <item>Паразиты</item>
+        <item>Разведение</item>
+        <item>Уход за зубами</item>
+        <item>Уход за ушами</item>
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_training"
+            android:icon="@mipmap/ic_train_foreground"
+            android:title="@string/menu_training" />
+        <item
+            android:id="@+id/nav_poroda"
+            android:icon="@mipmap/ic_porod_foreground"
+            android:title="@string/menu_poroda" />
+        <item
+            android:id="@+id/nav_wash"
+            android:icon="@mipmap/ic_washing_foreground"
+            android:title="@string/menu_wash" />
+    </group>
+</menu>
